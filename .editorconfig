@@ -1,0 +1,15 @@
+root = true
+
+[*]
+# 设置为latin1，utf-8，utf-8-bom，utf-16be或utf-16le来控制字符集
+charset = utf-8
+# 设置为lf，cr或crlf来控制换行符的表示方式
+end_of_line = lf
+# 一个整数，用于定义用于每个缩进级别的列数和软标签的宽度（支持时）。当设置为选项卡时，tab_width将使用（如果指定）的值
+indent_size = 2
+# 设置为制表符或空格分别使用硬标签或软标签
+indent_style = space
+# 设置为true可以保存时进行换行
+insert_final_newline = true
+# 设置为true可删除换行符前面的空白字符
+trim_trailing_whitespace = true
