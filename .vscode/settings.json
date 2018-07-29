@@ -1,0 +1,28 @@
+{
+  "editor.fontSize": 13,
+  "workbench.colorTheme": "Atom One Dark",
+  "explorer.confirmDelete": false,
+  "workbench.iconTheme": "vscode-icons",
+  "files.autoSave": "onFocusChange",
+  "git.enableSmartCommit": true,
+  "git.autofetch": true,
+  "editor.formatOnType": true,
+  "editor.formatOnSave": true,
+  "sync.gist": "c7a09fa29f8695543da17d324c689032",
+  "powermode.enabled": true,
+  "eslint.validate": [
+    "javascript",
+    "javascriptreact",
+    "html",
+    {
+      "language": "vue",
+      "autoFix": true
+    }
+  ],
+  "eslint.options": {
+    "plugins": [
+      "html"
+    ]
+  },
+  "powermode.presets": "flames"
+}
